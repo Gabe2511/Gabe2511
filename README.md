@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 Português:
-Me chamo Gabriel Fernandes, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkdln "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", onde crio projetos em Java APIs com framework SpringBoot, Python com IA Generativa e Banco de dados SQL, MySQL, NoSQL.
+Me chamo Gabriel Fernandes, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedln "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", onde crio projetos em Java APIs com framework SpringBoot, Python com IA Generativa e Banco de dados SQL, MySQL, NoSQL.
 
 English:
 **`Full Stack Developer`**
