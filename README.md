@@ -113,11 +113,11 @@ My name is Gabriel Fernandes, I am 23 years old and I am from São Paulo. Curren
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/AWS/AWS-original.svg" 
 />
 
 <img 
