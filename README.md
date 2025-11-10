@@ -1,13 +1,13 @@
 ## # 👩🏻‍💻 Gabriel Fernandes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 Português:
-Me chamo Gabriel Fernandes, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedln "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", onde crio projetos em Java APIs com framework SpringBoot, Python com IA Generativa e Banco de dados SQL, MySQL, NoSQL.
+Me chamo Gabriel Fernandes, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedln "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", onde crio projetos em Java APIs com framework SpringBoot, Python com IA Generativa para Analise de dados e Banco de dados SQL, MySQL, NoSQL.
 
 English:
-**`Full Stack Developer`**
+**`Developer`**
 
-My name is Gabriel Fernandes, I am 23 years old and I am from São Paulo. Currently, I am studying Systems Analysis and Development at UNIP. I am passionate about technology and I share my knowledge through my LinkedIn profile "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", where I create projects in Java APIs with the Spring Boot framework, Python with Generative AI, and SQL, MySQL, and NoSQL databases.
+My name is Gabriel Fernandes, I am 23 years old and I am from São Paulo. Currently, I am studying Systems Analysis and Development at UNIP. I am passionate about technology and I share my knowledge through my LinkedIn profile "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", where I create projects in Java APIs with the Spring Boot framework, Python with Generative AI for data analysis, and SQL, MySQL, and NoSQL databases.
 
 
 ---
