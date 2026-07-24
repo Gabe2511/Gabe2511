@@ -30,16 +30,6 @@ I am proficient in AI and machine learning libraries—such as PySpark, Pandas, 
 
 <h3 align="left">My Stack ~</h3>
 
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
 <img
     align="left"
     alt="Github"
@@ -91,10 +81,10 @@ I am proficient in AI and machine learning libraries—such as PySpark, Pandas, 
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 
-
+        
 <img
     align="left"
     alt="Vercel"
