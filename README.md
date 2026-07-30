@@ -7,14 +7,14 @@
 #
 
 Português:
-**`Analista de dados júnior`**
-Me chamo Gabriel Fernandes, sou natural de São Paulo, atualmente trabalho como Analista de dados júnior com experiência em operações financeiras. Sou apaixonado por tecnologia e compartilho meu conhecimento técnico e prático de uso de ferramentas que utilizo no meus projetos e no meu dia e tudo sobre Ciência de dados por aqui e através do meu Linkedln "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", onde crio projetos em ETL, pipelines, desenvolvimento de dashboards em Python com LLMs para uma Análise de dados, limpeza, automação exploratória e gerenciamento de Banco de dados SQL, MySQL.
+**`Analista de dados`**
+Me chamo Gabriel Fernandes, sou natural de São Paulo, atualmente trabalho como Analista de dados com experiência em operações financeiras. Sou apaixonado por tecnologia e compartilho meu conhecimento técnico e prático de uso de ferramentas que utilizo no meus projetos e no meu dia e tudo sobre Ciência de dados por aqui e através do meu Linkedln "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)", onde crio projetos em ETL, pipelines, desenvolvimento de dashboards em Python com LLMs para uma Análise de dados, limpeza, automação exploratória e gerenciamento de Banco de dados SQL, MySQL.
 Possuo conhecimento em bibliotecas de (IA) Machine Learning, PySpark, Pandas, Numpy, onde eu utilizo na minha rotina e projetos.
 
 
 English:
-**`JR Data Analysis`**
-My name is Gabriel Fernandes; I am originally from São Paulo and currently work as a JR. data Analysis with experience in financial operations. Passionate about technology, I share my technical and practical knowledge—covering the tools I use in my daily work and projects, as well as all things data science here and on my LinkedIn profile: "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)". There, I showcase projects involving ETL, pipelines, and dashboard development using Python and LLMs for data analysis, cleaning, exploratory automation, and SQL/MySQL database management.
+**`Data Analysis`**
+My name is Gabriel Fernandes; I am originally from São Paulo and currently work as a data Analysis with experience in financial operations. Passionate about technology, I share my technical and practical knowledge—covering the tools I use in my daily work and projects, as well as all things data science here and on my LinkedIn profile: "[Gabriel Fernandes](https://www.linkedin.com/in/gabriel-fernandes-4337b8355/)". There, I showcase projects involving ETL, pipelines, and dashboard development using Python and LLMs for data analysis, cleaning, exploratory automation, and SQL/MySQL database management.
 I am proficient in AI and machine learning libraries—such as PySpark, Pandas, and NumPy—which I utilize in my daily routine and projects.
 
 #
